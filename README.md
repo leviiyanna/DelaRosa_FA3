@@ -1,43 +1,52 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title> CSS Properties </title>
-		<style>
-			* {
-				box-sizing: border-box;
-			}
-			body {
-				background-color: pink;
-				background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOL6OUzTCBHsCQWm8laQvOb8loJWYQUpUQ_O91VKBug&s");
-				background-repeat: no-repeat;
-				background-position: center;
-				margin: 0px;
-			}
+    <head>
+         <title> Formative Assessment 3 </title>
+    </head>
+<style>
+/*Styling the body */	
+body {
+	background-image: 
+	background-repeat:
+	background-position:
+	background-attachment:
+        background-size:
+}
 
-			p {
-				text-align: justify;
-				text-decoration: underline;
-				border: 10px solid black;
-				padding: 10px 50px 100px 10px;
-				margin: 30px;
-				width: 300px;
-				height: 200px;
-				overflow: scroll;
-			}
-			
-			h1 {
-				text-shadow: 2px 2px yellow;
-			}
-			
-			div {
-				border: 1px solid black;
-			}
-		</style>
-	</head>
-	<body>
-		<h1> Welcome to CSS </h1>
-		<div>
-		<p> In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</p>
-		</div>
+/*Styling the heading (h1) */
+h1 {
+        text-align:
+	background-color:
+        font-family:
+	border:
+        padding:
+	width:
+        margin:
+}
+
+/*Styling the paragraph (p) */
+p {
+       text-align:
+	background-color:
+        font-family:
+	border:
+        padding:
+	width:
+        margin: 
+}
+
+/*Styling the span element */
+span {
+	font-weight:
+	font-style:
+        color:		
+</style>
+<body>
+         <h1> Office Productivity </h1>
+         <p> The book contains <span>MS Word 2010, MS Excel 2010, MS PowerPoint 2010 and MS Outlook 2010 </span>. The book aims to educate students in creating documents, 
+             worksheets, presentations, and organization using different software that may work relatively. </p>
 </body>
 </html>
+          margin: 2px 5px;
+}
+        
